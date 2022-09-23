@@ -153,8 +153,13 @@ cython_debug/
 idea/
 .idea/
 /.idea
-/.idea/
 
 # Mac OS
 .vscode
 .DS_Store
+
+# SQLite3
+database.sqlite3
+database.sqlite3/
+another_db.sqlite3
+another_db.sqlite3/
